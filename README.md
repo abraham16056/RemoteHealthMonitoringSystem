@@ -174,3 +174,7 @@ When the program runs, the following scenarios are simulated:
 4. **Testing**: Unit tests (JUnit) and integration tests should be added. Increasing test coverage improves code quality.
 
 5. **Logging**: A professional logging framework (Log4j, SLF4J) should be used instead of System.out.println.
+
+## GitHub Repository
+
+https://github.com/abraham16056/RemoteHealthMonitoringSystem
